@@ -1,4 +1,3 @@
-id,Tags
 "19448711","<javascript><javascript-events><cross-browser><onkeyup>"
 "16042613","<java>"
 "17933344","<python><postgresql><fetchall>"
